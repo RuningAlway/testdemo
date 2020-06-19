@@ -1,5 +1,5 @@
 # testdemo
-
+作为久违的vue脚手架项目完整流程
 ## Project setup
 ```
 yarn install
